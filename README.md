@@ -1,5 +1,5 @@
 # Onyx-Data---DataDNA-Dataset-Challenge---Social-Media-Content-Performance-Dataset---June-2025.xlsx
-his repository contains my submission for the **Onyx Data #DataDNA Challenge (June 2025)**. The challenge focused on analyzing social media post-level performance data across TikTok, Instagram, LinkedIn, and X.com.
+This repository contains my submission for the **Onyx Data #DataDNA Challenge (June 2025)**. The challenge focused on analyzing social media post-level performance data across TikTok, Instagram, LinkedIn, and X.com.
 
 ## 📌 Objective
 
